@@ -1,3 +1,5 @@
 # GIT and Github Course
 
-testing
+testing new features
+
+and smth new
